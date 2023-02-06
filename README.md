@@ -1,5 +1,5 @@
 
-# Tours
+# Menu
 The task is to create a react based application which uses the concept of `useState` for building an application to show the details and reviews of dishes using pre-defined items.
 
 ```
